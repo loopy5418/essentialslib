@@ -10,7 +10,7 @@ Essentials was created in 25.07.2024 by Loopy5418, with the sole purpose of help
 ## How to use Essentials?
 To use Essentials in your scripts, insert this loadstring at the top of your script;
 ```lua
-ess = loadstring(game:HttpGet("https://raw.githubusercontent.com/loopy5418/essentialslib/main/src.lua",true))()
+local ess = loadstring(game:HttpGet("https://raw.githubusercontent.com/loopy5418/essentialslib/main/src.lua",true))()
 ```
 Now that you have Essentials loaded in your script, you can use the functions. Here are the current functions;
 
